@@ -51,25 +51,25 @@ const PROJECTS_DATA = [
     ],
   },
   {
-    id: "pupassure",
+    id: "digital-impacts",
     number: "03",
-    title: "PUPASSURE",
-    category: "Pet Platform",
+    title: "Digital Impacts",
+    category: "Digital Agency Platform",
     shortTag: "Next.js • Responsive UX",
     description:
-      "A modern, responsive canine care and dog-themed web platform crafted with playful typography, breed discovery modules, and clean visual storytelling.",
+      "A modern, responsive digital agency web platform crafted with sleek typography, service showcase modules, and clean visual storytelling.",
     longDescription:
-      "A digital platform dedicated to dog health assurance, canine wellness guides, and breed adoption discovery. Built with a focus on modern responsive layouts, thoughtful visual hierarchy, tactile buttons, and engaging content structure.",
+      "A digital agency platform built to showcase services, portfolio work, and client impact. Focused on modern responsive layouts, thoughtful visual hierarchy, tactile interactions, and engaging content structure that drives conversions.",
     image: "/pupassure.PNG",
-    liveUrl: "https://github.com/maheen02-coder",
+    liveUrl: "https://digital-impact-snowy.vercel.app/",
     githubUrl: "https://github.com/maheen02-coder",
     inDevelopment: false,
     tags: ["Next.js", "React", "Tailwind CSS", "Responsive Design", "Modern UX"],
     highlights: [
-      "Canine wellness and assurance information architecture",
+      "Digital agency services and impact information architecture",
       "Responsive card layouts optimized for all viewport widths",
       "Tailwind-powered glassmorphism and refined color accents",
-      "Touch-friendly navigation and engaging pet adoption modules",
+      "Touch-friendly navigation and engaging service showcase modules",
     ],
   },
   {
@@ -83,9 +83,9 @@ const PROJECTS_DATA = [
     longDescription:
       "An ambitious full-stack e-commerce solution architected with Next.js, Node.js, Express, and MongoDB. Includes a modern luxury dark storefront aesthetic, product filtering, persistent shopping cart state, JWT authentication, and RESTful API endpoints for catalog and orders.",
     image: "/shopsphere.jpg",
-    liveUrl: null,
+    liveUrl: "https://shop-sphere-nine-nu.vercel.app/",
     githubUrl: "https://github.com/maheen02-coder",
-    inDevelopment: true,
+    inDevelopment: false,
     tags: ["Next.js", "Node.js", "Express.js", "MongoDB", "REST APIs", "Tailwind CSS"],
     highlights: [
       "Full-stack architecture with decoupled backend API endpoints",
