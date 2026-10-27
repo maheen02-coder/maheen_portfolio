@@ -60,7 +60,7 @@ const PROJECTS_DATA = [
       "A modern, responsive digital agency web platform crafted with sleek typography, service showcase modules, and clean visual storytelling.",
     longDescription:
       "A digital agency platform built to showcase services, portfolio work, and client impact. Focused on modern responsive layouts, thoughtful visual hierarchy, tactile interactions, and engaging content structure that drives conversions.",
-    image: "/pupassure.PNG",
+    image: "/digital-impacts.PNG",
     liveUrl: "https://digital-impact-snowy.vercel.app/",
     githubUrl: "https://github.com/maheen02-coder",
     inDevelopment: false,
